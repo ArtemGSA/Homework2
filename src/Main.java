@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-                                            //ЗАДАЧА1
+                                                //ЗАДАЧА1
         System.out.println("Задача 1:");
         var dog = 8.0;
         System.out.println("dog = "+ dog);
